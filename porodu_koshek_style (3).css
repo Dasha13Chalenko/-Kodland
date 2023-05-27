@@ -1,0 +1,175 @@
+ @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Stalinist+One&display=swap');
+
+body{
+position: relative;
+width: 1301px;
+height: 500px;
+
+background: #C19EAF;
+border-radius: 20px;
+}
+
+.nya{
+position: absolute;
+width: 160px;
+height: 155px;
+left: 610px;
+top: 17px;
+}
+
+.registration{
+   display:flex;
+   flex-direction:column;
+   left: 47px;
+   top: 300px;
+   width: 30vw;
+   border-radius:20px;
+   font-family: 'Roboto Condensed', sans-serif; ;
+   font-size:10px;
+   background-color: #EFC3D8;
+}
+.AOAOA{
+    position:absolute;
+    height:310px;
+    width:210px;
+    left:17px;
+    top:190px;
+    border-radius:20px;
+}
+.felinologi{
+position: absolute;
+width: 761px;
+height: 133px;
+left: 270px;
+top: 290px;
+
+font-family: 'Marcellus';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+
+color: #1F1F1F;
+}
+
+.cats{
+position: absolute;
+width: 326px;
+height: 258px;
+left: 90px;
+top: 510px;
+
+font-family: 'Marcellus';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 25px;
+
+color: #000000;
+}
+
+.cats1{
+position: absolute;
+width: 286px;
+height: 249px;
+left: 490px;
+top: 510px;
+
+font-family: 'Marcellus';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 25px;
+
+color: #000000;
+}
+
+.cats2{
+   position: absolute;
+width: 248px;
+height: 258px;
+left: 820px;
+top: 510px;
+
+font-family: 'Marcellus';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 25px;
+
+color: #000000; 
+}
+
+.cats3{
+    position: absolute;
+width: 337px;
+height: 186px;
+left: 1100px;
+top: 510px;
+
+font-family: 'Marcellus';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 25px;
+
+color: #000000;
+}
+
+.nya1{
+position: absolute;
+width: 316px;
+height: 175px;
+left: 17px;
+top: 830px;
+border-radius: 20px;
+}
+
+.nya2{
+position: absolute;
+width: 290px;
+height: 167px;
+left: 500px;
+top: 900px;
+}
+
+.nya3{
+position: absolute;
+width: 200px;
+height: 200px;
+left: 800px;
+top: 850px;
+}
+
+.nya4{
+position: absolute;
+width: 310px;
+height: 185px;
+left: 1090px;
+top: 850px;
+}
+
+footer{
+background-color:#A98797;
+position: absolute;
+width: 100vw;
+height: 240px;
+left: 50px;
+top: 1310px;
+font-family: 'Marcellus';
+font-size: 20px;
+color: #000000;
+}
+
+.insta{
+    height: 57px;
+    width: 57px;
+}
+.tiktok{
+    height: 57px;
+    width: 57px;
+}
+.vk{
+    height: 57px;
+    width: 57px;
+}
